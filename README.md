@@ -39,6 +39,10 @@ Here's a walkthrough of implemented user stories:
 
 ![Video Walkthrough](opentweet_p2.gif)
 
+### Offline Persistence Demo GIF
+
+![Offline Persistence Demo](opentweet_p2_offline.gif)
+
 ## Notes
 
 All went smooth this time, including the relative time.
